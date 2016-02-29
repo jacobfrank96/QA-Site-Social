@@ -48,14 +48,33 @@ a {
 }
 
 h2 {
-  color: #999;
+  color: #000;
   font-size: 1.3em;
 }
 
 h3 {
-  color: #999;
+  color: #000;
+  font-size: 1.3em;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: #000;
   font-size: 1em;
   text-transform: uppercase;
+}
+
+h5 {
+  color: #000;
+  font-size: 1.3em;
+  text-transform: uppercase;
+}
+
+h6{
+  color: #000;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  font-family: cursive;
 }
 
 h1 + h2 {
